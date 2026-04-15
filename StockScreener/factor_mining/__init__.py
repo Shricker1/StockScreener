@@ -1,2 +1,0 @@
-"""Factor mining package."""
-
